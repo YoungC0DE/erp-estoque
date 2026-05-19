@@ -12,24 +12,7 @@ O sistema permite registrar movimentações de estoque e acompanhar automaticame
 
 ---
 
-## 🌐 Acesso ao Projeto (Homologação)
-
-O projeto também está disponível online para testes.
-
-**Frontend**  
-https://erp-estoque-chi.vercel.app/
-
-**API**  
-https://erp-estoque.onrender.com
-
-**Documentação da API**  
-https://erp-estoque.onrender.com/docs/api
-
-⚠️ O primeiro acesso à API pode levar alguns segundos, pois o **Render hiberna serviços gratuitos após período de inatividade**.
-
----
-
-## 📦 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 .
@@ -53,7 +36,7 @@ https://erp-estoque.onrender.com/docs/api
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 
 ### Backend
 - Laravel 12
@@ -72,7 +55,7 @@ https://erp-estoque.onrender.com/docs/api
 
 ---
 
-## 🚀 Executando localmente
+## Executando localmente
 
 ### 1. Clonar o repositório
 
@@ -129,7 +112,7 @@ composer install -o
 
 ---
 
-## 📚 Documentação da API
+## Documentação da API
 
 A documentação da API é gerada automaticamente utilizando **Scramble**.
 
@@ -150,7 +133,7 @@ A documentação é gerada diretamente a partir dos **Controllers e Requests**, 
 
 ---
 
-## 🔎 Testando a API
+## Testando a API
 
 Para testar os endpoints manualmente:
 
@@ -184,7 +167,7 @@ E adicione:
 
 ---
 
-## 🧪 Testando o Frontend
+## Testando o Frontend
 
 Ambiente local:
 
@@ -201,7 +184,7 @@ A interface permite:
 
 ---
 
-## ⚙️ Funcionalidades da API
+## Funcionalidades da API
 
 A API fornece endpoints para:
 
@@ -220,7 +203,7 @@ A API segue o padrão **REST**, com **versionamento de rotas (`/api/v1`)**, util
 
 ---
 
-## 🎨 Interface do Frontend
+## Interface do Frontend
 
 O layout do frontend foi **inspirado no template Sakai**, disponibilizado pelo **PrimeVue**, adaptado para atender às necessidades deste projeto.
 
@@ -228,7 +211,7 @@ A proposta foi manter uma interface **simples, limpa e focada em produtividade**
 
 ---
 
-## 🤖 Uso de Inteligência Artificial
+## Uso de Inteligência Artificial
 
 Durante o desenvolvimento foram utilizadas ferramentas baseadas em **Inteligência Artificial** como suporte de produtividade:
 
@@ -240,6 +223,6 @@ Essas ferramentas foram utilizadas para **revisão de código, auxílio técnico
 
 ---
 
-## 📄 Licença
+## Licença
 
 Projeto desenvolvido para **fins educacionais e avaliação técnica**.
