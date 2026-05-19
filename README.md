@@ -223,6 +223,18 @@ Essas ferramentas foram utilizadas para **revisão de código, auxílio técnico
 
 ---
 
+# Documentações Específicas
+
+<p align="center">
+  <a href="./Backend/README.md">
+    <img src="https://img.shields.io/badge/Backend-Documentação-blue?style=for-the-badge&logo=laravel" />
+  </a>
+
+  <a href="./Frontend/README.md">
+    <img src="https://img.shields.io/badge/Frontend-Documentação-42b883?style=for-the-badge&logo=vue.js" />
+  </a>
+</p>
+
 ## Licença
 
 Projeto desenvolvido para **fins educacionais e avaliação técnica**.
