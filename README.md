@@ -60,8 +60,8 @@ O sistema permite registrar movimentações de estoque e acompanhar automaticame
 ### 1. Clonar o repositório
 
 ```
-git clone https://github.com/YoungC0DE/ERP_Estoque.git
-cd ERP_Estoque
+git clone https://github.com/YoungC0DE/erp-estoque.git
+cd erp-estoque
 ```
 
 ---
